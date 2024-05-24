@@ -13,3 +13,8 @@ To replicate the results from this analysis, generate the raw query results usin
 ## Steps to reproduce the results from the paper
 
 
+
+
+## References
+Kim et al. (2024) https://doi.org/10.5281/zenodo.11104871
+Wessel et al. (2024) https://doi.org/10.5281/zenodo.10895134
