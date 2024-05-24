@@ -14,6 +14,7 @@ To replicate the results from this analysis, generate the raw query results usin
 
 
 
+Any questions regarding the scripts included in this repository, requests for raw data should be directed to gijoo.kim@tufts.edu
 
 ## References
 Kim et al. (2024) https://doi.org/10.5281/zenodo.11104871
